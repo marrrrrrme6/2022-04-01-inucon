@@ -8,8 +8,6 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.entity.ProjectileHitEvent;
 
-import io.github.marrrrrrme6.plugin.inucon.InuCon;
-
 public class EventListenerClass implements Listener {
     @EventHandler
     public void onHit(ProjectileHitEvent event) {

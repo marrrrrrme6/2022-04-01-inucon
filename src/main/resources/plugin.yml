@@ -1,0 +1,6 @@
+name: Inu_Con
+version: '${project.version}'
+main: io.github.marrrrrrme6.plugin.inucon.InuCon
+api-version: 1.18
+authors: [ marme0532 ]
+website: https://github.com/marrrrrrme6
